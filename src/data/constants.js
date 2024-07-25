@@ -9,7 +9,7 @@ export const Bio = {
     "I possess a deep passion for programming and a strong interest in full-stack development. I am dedicated to continuous learning. Alongside my technical expertise, I also value effective communication, teamwork, and adaptability.",
   linkedin: "https://www.linkedin.com/in/aniket-agrahari-2439b5223/",
   resume:
-    "https://drive.google.com/file/d/1bqtl7zFjLDK3drCMawnw8SzVVr65kz_y/view?usp=sharing",
+    "https://drive.google.com/file/d/1dEY83fZbv8zZGInwFiwwhaEJOe43ge5B/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aniket-agrahari-2439b5223/",
   twitter: "https://x.com/agrahariTweets",
   github: "https://github.com/aniket-agr60" ,
