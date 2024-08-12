@@ -203,6 +203,18 @@ export const experiences = [
   },
   {
     id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-y9rf2r_7Z1V_-ca0poNqUolGnho5Dwach-xW9yzmyewMXKI4KdAfo3vU&s",
+    role: "Developer Intern (Full-Stack)(Remote)", 
+    company: "Meta CraftLab Pvt. Ltd.",
+    date: "June 2024 - July 2024",
+    desc: "Collaborating with a team of four developers to build a comprehensive multi-tool platform using Svelte. Assigned specific tools to develop and enhance under the guidance of a mentor. Engaging in full-stack development, contributing to both front-end and back-end features, ensuring high and responsiveness of the platform.",
+    skills: [
+      "Full-Stack Development",
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuEVSzBtpn32lo1_FxvQvZukSQc5btTXPqg&s",
     role: "Mentor under DSAMP Program",
     company: "NIT Jalandhar",
@@ -213,7 +225,7 @@ export const experiences = [
     ], 
   },
   {
-    id: 2,
+    id: 3,
     img: "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=180&h=180",
     role: "Certification: Machine Learning (Stanford Online, Coursera)",
     company: "Deeplearning.ai",
@@ -225,7 +237,7 @@ export const experiences = [
     doc: "https://www.coursera.org/account/accomplishments/specialization/P27JVD4BFZBA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n",
   },
   {
-    id: 3,
+    id: 4,
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/2048px-Google_%22G%22_logo.svg.png",
     role: "Certification: Google CLoud Computing Fundamentals",
     company: "Google Cloud Skills Boost",
@@ -239,7 +251,7 @@ export const experiences = [
 
   },
   {
-    id: 4,
+    id: 5,
     img: "https://cdn.iconscout.com/icon/free/png-512/free-microsoft-26-722716.png?f=webp&w=256",
     role: "Certification: Azure AI Fundamentals Skill Challenge",
     company: "Microsoft",
@@ -251,7 +263,7 @@ export const experiences = [
     doc: "https://drive.google.com/file/d/1whuXOta2fCZoGz4C6CXi0gHSVSO7WPDq/view",
   },
   {
-    id: 5,
+    id: 6,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuEVSzBtpn32lo1_FxvQvZukSQc5btTXPqg&s",
     role: "Certification: Coderush 2023 (AlgoUniversity)",
     company: "AlgoUniversity",
